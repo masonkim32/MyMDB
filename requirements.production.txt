@@ -1,0 +1,4 @@
+-r requirements.common.txt
+django-storages
+boto3
+uwsgi
